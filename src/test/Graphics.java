@@ -18,7 +18,7 @@ implements ActionListener{
 	private Snake s;
 	private Food f;
 	private Game game;
-	
+
 	public Graphics(Game g) {
 		t.start();
 		state = "START";
